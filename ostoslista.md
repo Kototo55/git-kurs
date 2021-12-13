@@ -2,3 +2,4 @@
 - Kana
 - Tomaatti
 - Jauhoja
+- Pesto
