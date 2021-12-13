@@ -3,4 +3,4 @@
 - Tomaatti
 - Jauhoja
 - Pesto
-- Kakkuainekset
+- Kakkuaineksett
