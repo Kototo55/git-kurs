@@ -3,3 +3,5 @@
 - Tomaatti
 - Jauhoja
 - Pesto
+- Banaaneja
+- Veggies
